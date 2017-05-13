@@ -52,7 +52,7 @@
     "@ciscospark/plugin-logger": "0.7.87",
     "@ciscospark/plugin-metrics": "0.7.87",
     "@ciscospark/plugin-people": "0.7.93",
-    "@ciscospark/plugin-phone": "0.7.87",
+    "@ciscospark/plugin-phone": "0.8.0",
     "@ciscospark/spark-core": "0.7.87",
     "@ciscospark/storage-adapter-local-forage": "^0.7.87",
     "@ciscospark/storage-adapter-local-storage": "0.7.87",
